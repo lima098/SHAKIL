@@ -1,0 +1,5 @@
+git clone https://github.com/lima098/SHAKIL
+
+cd SHAKIL
+
+python shakil.py
